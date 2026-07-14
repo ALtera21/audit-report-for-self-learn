@@ -53,7 +53,7 @@ ALtera21
 
 # Protocol Summary
 
-A smart contract application for gambling a random rarity picture of puppies.
+A smart contract application swapping any healthy ERC20 for weth based of AMM.
 
 # Disclaimer
 
